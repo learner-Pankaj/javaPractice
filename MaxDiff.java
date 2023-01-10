@@ -14,5 +14,6 @@ class MaxDiff{
             }
         }
         System.out.println(maxDiff);
+        sc.close();
     }
 }

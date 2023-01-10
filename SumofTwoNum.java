@@ -13,5 +13,6 @@ class SumofTwoNum{
 		a=sc.nextInt();
 		b=sc.nextInt();
 		System.out.println(Sum(a, b));
+		sc.close();
 	}
 }
