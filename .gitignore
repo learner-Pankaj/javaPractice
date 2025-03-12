@@ -1,3 +1,2 @@
-//All the class files are getting ignored for git, so it can show as working tree is clean.
-
-Hello.class
+#Executables
+*.class
