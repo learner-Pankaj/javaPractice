@@ -1,4 +1,4 @@
-package practice.javaPractice;
+
 
 class Hello{
     public static void main(String []args){
